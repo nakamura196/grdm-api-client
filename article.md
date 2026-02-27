@@ -328,7 +328,7 @@ GakuNin RDMのAPIはOSF APIv2に準拠しており、JSON:API形式でプロジ�
 
 本記事のコードは以下で公開しています。
 
-https://github.com/nakamura196/grdm-tools
+https://github.com/nakamura196/grdm-api-client
 
 ## 参考
 
